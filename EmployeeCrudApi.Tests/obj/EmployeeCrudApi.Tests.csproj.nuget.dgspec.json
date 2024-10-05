@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj": {}
+    "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj": {
+    "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj",
         "projectName": "EmployeeCrudApi.Tests",
-        "projectPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj",
+        "projectPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi.Tests\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj": {
-                "projectPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj"
+              "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj": {
+                "projectPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj"
               }
             }
           }
@@ -60,6 +60,8 @@
               "version": "[4.20.71, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.2, )"
             },
@@ -92,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj": {
+    "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
         "projectName": "EmployeeCrudApi",
-        "projectPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
+        "projectPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi\\EmployeeCrudApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config"
