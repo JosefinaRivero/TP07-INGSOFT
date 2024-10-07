@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CKOMlj7k7Jo=",
+  "dgSpecHash": "L59WhiCM09w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\TP07-INGSOFT\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj",
+  "projectFilePath": "C:\\Users\\oscar\\Desktop\\INGENIERIA EN SISTEMAS\\2024\\SEGUNDO SEMESTRE\\ing de sw 3\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi.Tests\\EmployeeCrudApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\oscar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
